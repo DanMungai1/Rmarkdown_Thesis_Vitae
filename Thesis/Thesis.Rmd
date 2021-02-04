@@ -1,6 +1,6 @@
 ---
 title: "MODELLING THE IMPACTS OF FISHING ON TROPHIC INTERACTIONS IN LAKE VICTORIA USING ECOTROPH"
-author: "NDEGWA MUNGAI DANIEL"
+author: "NDEGWA MUNGAI DANIEL <br> Faculty of Agriculture <br> Department of Fisheries and Aquatic Studies <br> Supervisors <br> Dr. Chrispine Sangara Nyamweya - KMFRI- Kisumu <br> Dr. Enock Obuba - Lecturer - Kisii University <br> Master of Science Thesis Defense"
 date: "`r Sys.Date()`"
 output: xaringan::moon_reader
 params:
@@ -12,7 +12,11 @@ params:
 
 
 - However the Apollo mission of December 1968, fundamentally changed the mind of the world population
+---
+background-image: url(img/superJumbo.jpg)
 
+background-size: cover
+---
 
 - The world realized that her resources are finite and there exists an edge to our existence
 
@@ -24,6 +28,10 @@ params:
 
 
 - They also realized that the ocean resources are finite and need our protection
+---
+background-image: url(img/fao2.png)
+
+background-size: cover
 ---
 #Aquatic Ecosystems
 - The tragedy of our times is still unfolding across the globe barely noticeable 
@@ -63,6 +71,10 @@ params:
 
 - In terms of production, it produces an annual tonnage of 1M metric tones supporting an approximate 70 million households.
 ---
+background-image: url(img/Lake-Victoria.jpg)
+
+background-size: cover
+---
 #Cont..
 - Research conducted in the early 1900s indicated that the lake was composed of multi-genera, multi-species fishery
 
@@ -99,6 +111,10 @@ params:
 
 - Therefore incorporate the components we are interested in and exclude the less important components. 
 ---
+background-image: url(img/Aquaticmodel.png)
+
+background-size: cover
+---
 #Ecotroph Model
 - This model uses trophic spectra to represent the functioning of aquatic ecosystems using the flow of biomass
 
@@ -113,7 +129,10 @@ params:
 - Whereby if a species becomes our target there is nowhere in the planet it can hide
 
 - The Major components of the Ecotroph model therefore are kinetics, volume of biomass, magnitude and nature of fishing.
+---
+background-image: url(img/Ecotroph.png)
 
+background-size: cover
 ---
 #Problem Statement
 - Overexploitation through overfishing is one of the most apparent reasons for the declines of fishery recorded from Lake Victoria
@@ -169,6 +188,10 @@ represent  the Lake Victoria ecosystem
 
 - At least two trawls were done in the sampling sites. 
 ---
+background-image: url(img/Screenam.png)
+
+background-size: contain
+---
 #Fish Sampling
 - A deck trawl net with an attached small-sized net was used for bottom trawling 
 
@@ -179,14 +202,23 @@ represent  the Lake Victoria ecosystem
 - Every bottom trawl was done between 30 and 45 minutes at speeds of 19 to 20 knots per hour. 
 
 - Two hauls were done in every sampling point and expedition
+---
+ .center[Towing the trawl net on deck] 
+ 
+ ![my-greens](img/IMG-20190228-WA0025.jpg)
+---
 
-- On towing the trawl net on deck, 
-
-- The dagaa and the haplochromines caught in the mosquito net were separated and weighed differently. 
-
+.center[The dagaa and the haplochromines caught in the mosquito net were separated and weighed differently] 
+.pull-left[![my-greens](img/IMG-20190228-WA0026.jpg)]
+.pull-right[![my-greens](img/IMG-20190228-WA0030.jpg)]
+---
 - The larger fishes caught were sorted according to their species and sizes and weighed 
-
+.pull-left[![my-greens](img/IMAG1167.jpg)]
+.pull-right[![my-greens](img/IMAG1173.jpg)]
+---
 - The physical and chemical parameters were taken in-situ using the multiparameter meter, YSI model
+.pull-left[![my-greens](img/IMAG0738.jpg)]
+.pull-right[![my-greens](img/IMAG0740.jpg)]
 ---
 #Modelling Framework
 - The data collected was fitted into Ecopath with Ecosim model created for the whole Lake Victoria
@@ -202,6 +234,11 @@ represent  the Lake Victoria ecosystem
 - 2 producer groups and a 
 
 - detrital group 
+---
+background-image: url(img/Picture1.png)
+
+background-size: contain
+.center[Ecopath GUI]
 ---
 #Simulating fishing scenarios
 - The Ecotroph module was used to simulate different fishing scenarios using the ET-Diagnose routine r package,
@@ -247,26 +284,67 @@ they form the commercially important species of Lake Victoria
 
 - The highest biomass that can be extracted from the ecosystem using the highest exploitation effort multiplier of 5 is 8.9316 t km-2 
 ---
-#The Flow of Biomass
-- The Flow of biomass from low to high trophic levels
+background-image: url(img/Picture3.jpg)
+
+background-size: contain
 ---
+
+background-image: url(img/Picture4.png)
+
+background-size: contain
+#The Flow of Biomass
+---
+background-image: url(img/Picture8.png)
+
+background-size: contain
+
 #The Kinetics of biomass flow in Lake Victoria
 ---
+background-image: url(img/Picture5.png)
+
+background-size: contain
+
 #Biomass Distribution Across Trophic Level
 ---
+background-image: url(img/Picture6.png)
+
+background-size: contain
+
 #Trophic Level Distribution of Species
 ---
+background-image: url(img/Picture7.jpg)
+
+background-size: contain
+---
+background-image: url(img/Picture9.png)
+
+background-size: contain
+
 #Exploring the Impacts of Fishing
 ---
+background-image: url(img/Picture10.png)
+
+background-size: contain
+---
+background-image: url(img/Picture11.png)
+
+background-size: contain
 #Mean Trophic Level of Biomass for Dagaa and Haplochromines
-
 ---
+background-image: url(img/Picture12.png)
+
+background-size: contain
 #Mean Trophic level for Nile Perch and Nile Tilapia
-
 ---
+background-image: url(img/Picture13.png)
+
+background-size: contain
 #Trophic Level Variation of Catch
 
 ---
+background-image: url(img/corr.png)
+
+background-size: contain
 #Pearson's Correlation Matrix
 
 ---
@@ -302,6 +380,27 @@ kinetics and the fishing loss rate
 - Fishing at lower trophic level hugely impacts the trophic functioning of Lake Victoria Negatively
 
 - Therefore fishing at higher trophic level produces large biomass catches while only impacting the trophic functioning of Lake Victoria minimally
+---
+#Parting Shot
+- Our existence is not limitless
+--
+
+- There is an edge to our existence
+--
+
+- we are ultimately bound-by and reliant-upon the finite natural world about us
+--
+
+- Saving, Managing, conserving of certain/individual/groups of species would not be enough to re-wild the world.
+--
+
+- A powerful share of consciousness should be fostered regarding the natural world
+--
+
+- This is a fundamental truth, an objective truth- a fact that is true no matter what. 
+---
+class: center, middle
+THANK YOU
 ---
 # REFERENCES
 Anyanova, E. (2008). Rescuing the inexhaustible...(The issue of fisheries subsidies in the international trade policy). Journal of International Commercial Law and Technology, 3(3), 147–156.
