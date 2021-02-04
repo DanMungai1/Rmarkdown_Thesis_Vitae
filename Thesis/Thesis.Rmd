@@ -1,0 +1,323 @@
+---
+title: "MODELLING THE IMPACTS OF FISHING ON TROPHIC INTERACTIONS IN LAKE VICTORIA USING ECOTROPH"
+author: "NDEGWA MUNGAI DANIEL"
+date: "`r Sys.Date()`"
+output: xaringan::moon_reader
+params:
+  name1: "Chris" 
+  name2: "Enock"
+---
+# Introduction
+- Human beings believed that the earth was limitless and its resources infinite
+
+
+- However the Apollo mission of December 1968, fundamentally changed the mind of the world population
+
+
+- The world realized that her resources are finite and there exists an edge to our existence
+
+
+- Marine and Fisheries scientist had earlier claimed that, no matter the effort applied in world oceans, it could never deplete the Ocean's resources
+
+
+- However, the decline of global catches, extirpation and extinction of commonly fished species in oceans as well changed the minds of fisheries scientists
+
+
+- They also realized that the ocean resources are finite and need our protection
+---
+#Aquatic Ecosystems
+- The tragedy of our times is still unfolding across the globe barely noticeable 
+
+
+- The loss of our planets Wild Places - its biodiversity
+
+
+- The living world is a unique and spectacular marvel 
+
+
+- consists of billions of plants and animals - Dazzling in their variety and richness
+
+
+- Working together to benefit from the energy of the sun and minerals of the earth
+
+
+- leading lives that interlock in such a way that they sustain each other
+
+
+- Humans rely entirely on this finely tuned life support system- and each rely on its biodiversity to run smoothly
+
+
+- the way humans are living in the world is setting biodiversity into a decline
+
+
+- The natural world is fading thus making the planet uninhabitable due to poor planning and management - basically human error. 
+---
+#Lake Victoria Ecosystem
+- Lake Victoria is an iconic East African Lake
+
+- Both for its surface area and fisheries production
+
+- Regarding surface area, is the second largest freshwater lake in the world after lake superior
+
+- It is shared by three east African countries in varying proportions with its catchment area extending beyond Kenya, Uganda and Tanzania to Rwanda and Burundi.
+
+- In terms of production, it produces an annual tonnage of 1M metric tones supporting an approximate 70 million households.
+---
+#Cont..
+- Research conducted in the early 1900s indicated that the lake was composed of multi-genera, multi-species fishery
+
+- However due to overfishing and introduction of exotic species, the fishery of the Lake has been reduced to three species
+
+- The dagaa/omena and reduced species of haplochromines are the only endemic species left 
+
+- The majorly composed a Nile perch and Nile tilapia fishery which are exotic species
+---
+#Ecological Models
+- For proper planning and sound management of aquatic ecosystems 
+
+
+- We need to understand the functioning processes of aquatic ecosystems 
+
+
+- Models create a method or an avenue of understanding, describing and interpreting the functioning processes of ecosystems
+
+
+- Ecological models are thus representations of real ecosystem functioning and processes
+
+
+- Models are integral data intensive strategies through which available resources are approximated and their exploitation mapped over time
+
+
+- On the basis on sustainability 
+
+
+- Models are not always correct but provide insights regarding real ecosystems
+
+
+- Aquatic Ecosystems are complex and no single model is capable of capturing all components of an ecosystem
+
+
+- Therefore incorporate the components we are interested in and exclude the less important components. 
+---
+#Ecotroph Model
+- This model uses trophic spectra to represent the functioning of aquatic ecosystems using the flow of biomass
+
+- The ecosystems are structured as function of transfer of energy from low to high trophic level species through predation and ontogeny
+
+- The flow of energy through each trophic level is influenced by Kinetics and Volume of biomass
+
+- Fishing is the component that interferes with the flow of biomass through the removal of biomass at certain trophic levels
+
+- The effect of fishing is profound in ecosystems due to technological advancements in fishing gears and gear technology
+
+- Whereby if a species becomes our target there is nowhere in the planet it can hide
+
+- The Major components of the Ecotroph model therefore are kinetics, volume of biomass, magnitude and nature of fishing.
+
+---
+#Problem Statement
+- Overexploitation through overfishing is one of the most apparent reasons for the declines of fishery recorded from Lake Victoria
+
+- The current ecosystem models do not emphasize the importance of trophic interactions in which;
+
+- when some components are destroyed; the whole ecosystem is destabilized
+
+- The decline of the Lake Victoria fishery is attributable to the fishing patterns that do not support sustainability
+
+- All the compartments of ecosystems are potentially affected by fishing activities
+---
+#Objectives
+.pull-left[General Objective
+
+- The study aimed at predicting the Lake Victoria trophic ecosystem response to varied fishing scenarios, with the aim to arrive at the best fishing scenario]
+
+.pull-right[Specific Objective
+
+- To determine critical determinants of Lake Victoria trophic functioning.
+
+- To determine the effect of different fishing patterns on trophic functioning.  
+
+- To determine a fishing strategy that optimizes production with minimal adverse effects on trophic functioning.]
+---
+#Hypotheses
+
+- There are no significant changes in the trophic functioning given different fishing patterns in Lake Victoria.
+
+- There is no significant difference between fishing at lower and higher trophic levels in Lake Victoria
+---
+#Expected Outcome
+- The determination of the most appropriate or optimal level of fishing and target trophic level that produces highest attainable catch without threatening the trophic interactions in Lake Victoria
+
+- The determination of a fishing strategy that optimizes catch while preserving the natural functioning process of trophic interaction
+---
+#Materials and Methods
+Study Area
+
+- An area covering 68900 km2 with a 
+spatial extent of 3.05°S to 0.55°N and 
+31.5°W to 34.88°E was constructed to
+represent  the Lake Victoria ecosystem
+
+---
+#Research Design
+- The main method of data collection to determine the biology of Nile perch, Nile tilapia and dagaa was done through bottom trawling. 
+
+- The swept area method was used to calculate the biomass 
+ Every bottom trawl was done for 30 minutes. 
+ 
+- The fishes caught were sorted according to their species and sizes.
+
+- At least two trawls were done in the sampling sites. 
+---
+#Fish Sampling
+- A deck trawl net with an attached small-sized net was used for bottom trawling 
+
+- Seine nets were used to catch the small sized species
+
+- Swept area method was used to estimate the biomass 
+
+- Every bottom trawl was done between 30 and 45 minutes at speeds of 19 to 20 knots per hour. 
+
+- Two hauls were done in every sampling point and expedition
+
+- On towing the trawl net on deck, 
+
+- The dagaa and the haplochromines caught in the mosquito net were separated and weighed differently. 
+
+- The larger fishes caught were sorted according to their species and sizes and weighed 
+
+- The physical and chemical parameters were taken in-situ using the multiparameter meter, YSI model
+---
+#Modelling Framework
+- The data collected was fitted into Ecopath with Ecosim model created for the whole Lake Victoria
+
+- The ecosystem biomass was partitioned into functional groups, as functions of their roles in ecological feeding interactions
+
+- The functional groups of the model were piscivorous birds, the Nile crocodile, 
+
+- 15 fish groups grouped according to feeding similarities, history or habitat 
+
+- 3 different invertebrate groups, 
+
+- 2 producer groups and a 
+
+- detrital group 
+---
+#Simulating fishing scenarios
+- The Ecotroph module was used to simulate different fishing scenarios using the ET-Diagnose routine r package,
+
+- Variations of fishing mortality with common multipliers ranging from 0-5 were used for all trophic levels,
+
+- A value of 0 simulated a virgin ecosystem, 1 and 2 values decreased fishing mortality and values above 2 indicated increased fishing mortality 
+
+- Fishing effort multipliers were imposed on haplochromines, Nile perch and the dagaa
+
+- The mean trophic level of biomass and catch change depicted trends
+---
+#Exploring fishing Scenarios
+- Changes in fishing biomass, fishing mortality and 
+catch 
+
+- of Nile perch, dagaa, Nile tilapia and haplochromines were used to understand the importance of each to fishing. 
+
+- The dagaa, Nile Perch and Nile tilapia were used because 
+they form the commercially important species of Lake Victoria 
+- while the haplochromines were selected because they are prey for the Nile perch. 
+---
+#Data Analysis
+- The model outputs were analyzed using excel 2016 version 
+
+- Bar graphs were used to illustrate changes in ecosystem biomass across trophic levels. 
+
+- Line graphs were used to illustrate trends in biomass flow across trophic levels. 
+
+- Model output was compared with corresponding data sets to check whether simulations were able to preserve both trends and magnitude 
+
+- using Pearson's correlation and modelling efﬁciency (E) as proposed by Olsen et al. (2016). 
+
+- A one way ANOVA was used to determine differences in mortality losses and biomass changes within different fishing scenarios
+
+- To determine biomass and catch trend changes in trophic levels, the mean trophic level of biomass and catch was used using the formulae below
+
+- where ti is the trophic level, b is the biomass of that specific trophic level and B is the sum of biomass in all trophic levels.
+---
+#RESULTS AND DISCUSSION
+.center[Biomass]
+- The total biomass recorded was 274.7147 t km-2 164.7448t km-2 being the accessible biomass. 
+
+- The highest biomass that can be extracted from the ecosystem using the highest exploitation effort multiplier of 5 is 8.9316 t km-2 
+---
+#The Flow of Biomass
+- The Flow of biomass from low to high trophic levels
+---
+#The Kinetics of biomass flow in Lake Victoria
+---
+#Biomass Distribution Across Trophic Level
+---
+#Trophic Level Distribution of Species
+---
+#Exploring the Impacts of Fishing
+---
+#Mean Trophic Level of Biomass for Dagaa and Haplochromines
+
+---
+#Mean Trophic level for Nile Perch and Nile Tilapia
+
+---
+#Trophic Level Variation of Catch
+
+---
+#Pearson's Correlation Matrix
+
+---
+#DISCUSSION AND RECCOMENDATION
+- In Lake Victoria only, a small proportion of the total biomass is accessible to fishing. 
+
+- This, therefore, makes the trophic functioning relatively stable.
+
+- The exploitation of the lake mainly targets the higher trophic level Nile perch species but also mid trophic level species the Dagaa. 
+
+- The impact of fishing on Dagaa is compensated by the huge biomass of mid trophic level species the haplochromines.
+
+- The trophic interactions are hugely impacted by exploitation at lower trophic level while impacts are associated with fishing concentrated in higher trophic levels
+---
+#Cont..
+- The high trophic level species are the Nile Perch which due to overfishing are currently at very lower sizes
+
+- The capture at young sizes ensure the Nile perch does not harvest most of lower trophic level species
+
+- Leading to the predatory release phenomenon
+
+- Fishing Haplochromines, tilapia and dagaa hugely interrupts the trophic functioning as the diet of higher trophic level species is depleted by fishing
+
+- The ecosystem biomass decreases significantly when fishing is concentrated at low trophic level species
+
+---
+#CONCLUSION
+- The determinants of trophic functioning in Lake Victoria are Accessibility of biomass to fishing, the biomass flow 
+kinetics and the fishing loss rate
+
+- Fishing at higher trophic levels improves the trophic interactions of lake Victoria
+
+- Fishing at lower trophic level hugely impacts the trophic functioning of Lake Victoria Negatively
+
+- Therefore fishing at higher trophic level produces large biomass catches while only impacting the trophic functioning of Lake Victoria minimally
+---
+# REFERENCES
+Anyanova, E. (2008). Rescuing the inexhaustible...(The issue of fisheries subsidies in the international trade policy). Journal of International Commercial Law and Technology, 3(3), 147–156.
+
+AU-IBAR. (2016). Fisheries Management and Development Processes in Lake Victoria - Enhancing Regional Fisheries Management Plan. In M. Seisay, S. Nouala, & O. Anozie (Eds.), African Union- Inter African Bureau for Animal Resources. Nairobi, Kenya: Africa Union- Interafrica Bureau for Animal Resources.
+
+Ayata, S.-D., Lévy, M., Aumont, O., Sainte-Marie, J., Tagliabue, A., & Bernard, O. (2013). Archimer Phytoplankton growth formulation in marine ecosystem models: Should we take into account photo-acclimation and variable stoichiometry in. Journal of Marine Systems, 125(September), 29–40. https://doi.org/10.1016/j.jmarsys.2012.12.010
+
+Battaglia, V., Modi, R., Moreu, V., & Zimont, V. (2011). RANS and LES Modeling of the GE10 Burner. Energy and Power Engineering, 03(05), 607–615.https://doi.org/10.4236/epe.2011.35076
+Bolker, B. (2007). Ecological Models and Data in R.
+Burns, T. P. (1989). Lindemans Contradiction and the Trophic Structure of Ecosystems. Ecology Society of America, 70(5), 1355–1362.
+---
+Bwathondi, P. O. J., Ogutu Ohwayo, R., & Ogaari, J. (2014). Lake Victoria fisheries management plan. In Lake Victoria Fisheries Organization (LVFO). Technical Document. https://doi.org/10.1007/s13398-014-0173-7.2
+
+Chon, T.-S., Ray, S., Coll-Monton, M., & Fath, B. D. (2018). International Journal of Ecological Modelling and Systems Ecology author information pack. International Journal of Ecological Modelling and Systems Ecology AU, (May), 1–17.
+Christensen, V., & Walters, C. J. (2004). Ecopath with Ecosim: Methods, capabilities and limitations. Ecological Modelling, 172(2–4), 109–139.https://doi.org/10.1016/j.ecolmodel.2003.09.003
+
+Christensen, V., Walters, C. J., & Pauly, D. (2000). ECOPATH WITH ECOSIM : A USER ’ S GUIDE by. Fisheries Bethesda, November 2(November), 154. https://doi.org/10.1016/0304-3800(92)90016-8
+
