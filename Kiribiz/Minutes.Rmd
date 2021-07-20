@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Members present
 - Joseph Kiritu Mathai
 - Josphine Nungari Kiritu
-- David Mathai Kirit
+- David Mathai Kiritu
 - Daniel Mungai Ndegwa
 - Esther Wanjiku Mungai
 - Mercy Njoki Mathai
