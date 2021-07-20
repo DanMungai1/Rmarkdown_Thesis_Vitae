@@ -1,0 +1,859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <Platform>Microsoft Windows NT 10.0.19041.0</Platform>
+  <Is64BitOS>True</Is64BitOS>
+  <ModelName>Lake_Victoria_EwE_model_1960-2015</ModelName>
+  <Created>12:16:59 27 February 2021</Created>
+<Session_Started
+  Date="12:17:00 27 February 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="12:17:01 27 February 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Exception_Messages
+  Date="12:17:07 27 February 2021">
+  <Detail>cPluginManager.LoadPluginAssembly::LoadFrom(C:\Program Files\Ecopath with Ecosim 6.6.5 64-bit\Includes\LPSolve\win32\lpsolve55.dll)</Detail>
+  <Exception>
+    <Type>System.BadImageFormatException</Type>
+    <Source>mscorlib</Source>
+    <Message>Could not load file or assembly 'file:///C:\Program Files\Ecopath with Ecosim 6.6.5 64-bit\Includes\LPSolve\win32\lpsolve55.dll' or one of its dependencies. The module was expected to contain an assembly manifest.</Message>
+  </Exception>
+  <StackTrace>
+    <Method>
+      <Name>_nLoad</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>InternalLoadAssemblyName</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>InternalLoadFrom</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>LoadFrom</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>LoadPluginAssembly</Name>
+      <Line>0</Line>
+    </Method>
+  </StackTrace>
+</Exception_Messages>
+<Exception_Messages
+  Date="12:17:09 27 February 2021">
+  <Detail>cPluginManager.LoadPluginAssembly::LoadFrom(C:\Program Files\Ecopath with Ecosim 6.6.5 64-bit\Includes\LPSolve\win64\lpsolve55.dll)</Detail>
+  <Exception>
+    <Type>System.BadImageFormatException</Type>
+    <Source>mscorlib</Source>
+    <Message>Could not load file or assembly 'file:///C:\Program Files\Ecopath with Ecosim 6.6.5 64-bit\Includes\LPSolve\win64\lpsolve55.dll' or one of its dependencies. The module was expected to contain an assembly manifest.</Message>
+  </Exception>
+  <StackTrace>
+    <Method>
+      <Name>_nLoad</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>InternalLoadAssemblyName</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>InternalLoadFrom</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>LoadFrom</Name>
+      <Line>0</Line>
+    </Method>
+    <Method>
+      <Name>LoadPluginAssembly</Name>
+      <Line>0</Line>
+    </Method>
+  </StackTrace>
+</Exception_Messages>
+<Log_Message
+  Date="12:18:15 27 February 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Log_Message
+  Date="12:18:16 27 February 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="12:18:16 27 February 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="12:18:16 27 February 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="12:18:16 27 February 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="12:18:16 27 February 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="12:18:17 27 February 2021">
+  <Message>Model closed</Message>
+</Log_Message>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Question_Message
+  Date="12:20:04 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:20:04 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:20:07 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:20:07 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:20:10 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:20:10 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Information_Message
+  Date="12:20:11 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="12:20:12 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="12:20:12 27 February 2021">
+  <Message>Ecopath run completed.</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Question_Message
+  Date="12:21:16 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:16 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:17 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:17 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:17 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:17 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Information_Message
+  Date="12:21:17 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="12:21:17 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="12:21:17 27 February 2021">
+  <Message>Ecopath run completed.</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Question_Message
+  Date="12:21:40 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:40 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:41 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:41 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:41 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="12:21:41 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Information_Message
+  Date="12:21:41 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="12:21:41 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="12:21:41 27 February 2021">
+  <Message>Ecopath run completed.</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Log_Message
+  Date="13:26:58 27 February 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Question_Message
+  Date="13:26:59 27 February 2021">
+  <Message>Unsaved changes in Ecopath will be lost if you proceed. Do you wish to save these changes?</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>Core</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+  <Message_Reply>YES</Message_Reply>
+  <Message_Suppressable>False</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Log_Message
+  Date="13:29:42 27 February 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:30:29 27 February 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:30:29 27 February 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:30:31 27 February 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:30:34 27 February 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Session_Started
+  Date="13:57:21 27 February 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="13:57:22 27 February 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Question_Message
+  Date="13:58:58 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="13:58:58 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="13:59:01 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="13:59:01 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="13:59:01 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="13:59:01 27 February 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Information_Message
+  Date="13:59:01 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="13:59:02 27 February 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="13:59:02 27 February 2021">
+  <Message>Ecopath run completed.</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Log_Message
+  Date="16:15:04 27 February 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Log_Message
+  Date="16:15:05 27 February 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="16:15:05 27 February 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="16:15:05 27 February 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="16:15:05 27 February 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="16:15:05 27 February 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="16:15:13 27 February 2021">
+  <Message>Model closed</Message>
+</Log_Message>
+<Session_Started
+  Date="10:01:57 02 March 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="10:01:57 02 March 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Log_Message
+  Date="15:51:30 02 March 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Log_Message
+  Date="15:51:30 02 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="15:51:31 02 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="15:51:31 02 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="15:51:31 02 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="15:51:31 02 March 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="15:51:53 02 March 2021">
+  <Message>Model closed</Message>
+</Log_Message>
+<Session_Started
+  Date="09:32:07 03 March 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="09:32:07 03 March 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Log_Message
+  Date="09:35:15 03 March 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Log_Message
+  Date="09:35:15 03 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="09:35:15 03 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="09:35:15 03 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="09:35:15 03 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="09:35:15 03 March 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="09:35:16 03 March 2021">
+  <Message>Model closed</Message>
+</Log_Message>
+<Session_Started
+  Date="09:36:23 03 March 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="09:36:23 03 March 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Log_Message
+  Date="10:44:48 03 March 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Question_Message
+  Date="10:44:49 03 March 2021">
+  <Message>Unsaved changes in Ecopath will be lost if you proceed. Do you wish to save these changes?</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>Core</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+  <Message_Reply>YES</Message_Reply>
+  <Message_Suppressable>False</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Log_Message
+  Date="10:44:54 03 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="10:44:54 03 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="10:44:54 03 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="10:44:54 03 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="10:44:54 03 March 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="10:44:55 03 March 2021">
+  <Message>Model closed</Message>
+</Log_Message>
+<Session_Started
+  Date="10:46:23 03 March 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="10:46:23 03 March 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Entry>
+  <Formcannotberesolved>frmEwE6 cmdNavigate OnInvoke</Formcannotberesolved>
+</Entry>
+<Question_Message
+  Date="11:13:31 03 March 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="11:13:31 03 March 2021">
+  <Message>Biomass, PB, QB and EE for 'Lates' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="11:13:33 03 March 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="11:13:33 03 March 2021">
+  <Message>Biomass, PB, QB and EE for 'Dagaa' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="11:13:34 03 March 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Question_Message
+  Date="11:13:34 03 March 2021">
+  <Message>Biomass, PB, QB and EE for 'Nile tilapia' are entered. Do you want to estimate biomass accumulation?</Message>
+  <Message_Type>Estimate_BA</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>EcoPathGroupInput</Message_DataType>
+  <Message_Reply>CANCEL</Message_Reply>
+  <Message_Suppressable>True</Message_Suppressable>
+  <Message_Suppressed>False</Message_Suppressed>
+</Question_Message>
+<Information_Message
+  Date="11:13:35 03 March 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="11:13:35 03 March 2021">
+  <Message>The following variables were estimated:</Message>
+  <Message_Type>DataModified</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Information_Message
+  Date="11:13:35 03 March 2021">
+  <Message>Ecopath run completed.</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Log_Message
+  Date="13:13:50 03 March 2021">
+  <Message>EwECore.SpatialData.cSpatialDataSetManager Failed to stop run when loading new model.</Message>
+</Log_Message>
+<Log_Message
+  Date="13:13:51 03 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:13:51 03 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:13:51 03 March 2021">
+  <Message>Ecospace scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:13:51 03 March 2021">
+  <Message>Ecotracer scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:13:51 03 March 2021">
+  <Message>Ecosim scenario closed</Message>
+</Log_Message>
+<Log_Message
+  Date="13:13:56 03 March 2021">
+  <Message>Model closed</Message>
+</Log_Message>
+<Session_Started
+  Date="11:06:41 23 March 2021">
+  <Model>Lake_Victoria_EwE_model_1960-2015</Model>
+  <LogFile>E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015_log.xml</LogFile>
+  <Is64BitExe>True</Is64BitExe>
+  <CultureOS>English (United Kingdom)</CultureOS>
+  <CultureUI>Spanish (Spain)</CultureUI>
+  <DecimalSeparator>.</DecimalSeparator>
+</Session_Started>
+<Information_Message
+  Date="11:06:41 23 March 2021">
+  <Message>Ecopath model 'E:\Rstudio\Git_Hub\Xaringan\Lake_Victoria_EwE_model_1960-2015.eweaccdb' loaded.</Message>
+  <Message_Type>DataAddedOrRemoved</Message_Type>
+  <Message_Source>EcoPath</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Information_Message>
+<Critical_Message
+  Date="11:09:08 23 March 2021">
+  <Message>Cannot read file from disk. Original error:</Message>
+  <Message_Type>Any</Message_Type>
+  <Message_Source>External</Message_Source>
+  <Message_DataType>NotSet</Message_DataType>
+</Critical_Message>
+</doc>

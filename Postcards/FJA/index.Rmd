@@ -1,0 +1,27 @@
+---
+title: "Fonda Jane Awuor <br> Resource Mobilization <br> WritingHub Africa Ltd"
+image: "FJA.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/fonda-jane-awuor-a68a0530?originalSubdomain=ke"
+  - label: BioinnovateAfrica
+    url: "https://bioinnovate-africa.org/fonda-jane-awuor/"
+  - label: KMFRI
+    url: "https://www.kmfri.go.ke/index.php/cb-profile/jawuor"
+  - label: Email
+    url: "mailto:fondajaneawuor@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Fonda Jane Awuor focuses on science, technology, innovation, and entrepreneurship to address societal needs. She is experienced in designing and managing development projects with a focus on food systems, adaptation, livelihood, gender, and environmental economics and policy through public-private partnerships. She also has an interest in successful agribusiness and enterprise development. 
+
+## Education
+
+She holds a Bachelor of Science and a Master of Science degrees both in Economics from the University of Nairobi, Kenya, and is currently pursuing her Ph.D in Agricultural Economics at Kenyatta University, Kenya.
+
+## Experience
+
+ As a doctoral student, she has co-authored book chapters and journal articles on technology, innovation, and development, and holds membership in various professional bodies.

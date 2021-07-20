@@ -1,0 +1,23 @@
+---
+title: "Wanjiku Njuguna <br> Director Business <br> WritingHub Africa Ltd"
+image: "Ciku.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/wanjiku-njuguna-65616917a"
+  - label: Twitter
+    url: "https://twitter.com/wanjikunjuguna7?s=08"
+  - label: Facebook
+    url: "https://www.facebook.com/wanjiku.njuguna.35"
+  - label: Email
+    url: "mailto:wanjikunjuguna123@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+Bsc. Economics and Statistics (Egerton University)
+CPA 2
+SPSS
+
+Currently head of customer service in a hospital setting. Part time data analyst.
+
+Role in Writing Hub Africa: Business acumen. Ranges from customer service to marketing.

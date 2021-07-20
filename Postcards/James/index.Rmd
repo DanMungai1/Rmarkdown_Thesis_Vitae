@@ -1,0 +1,20 @@
+---
+title: "James Last Keyombe Atalitsa <br> Director Institutions Linkages <br> WritingHub Africa Ltd"
+image: "Last.jpeg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "hhttps://www.linkedin.com/in/james-last-keyombe-atalitsa-1b202734"
+  - label: Facebook
+    url: "https://www.facebook.com/JamesLastKeyombe"
+  - label: Twitter
+    url: "https://twitter.com/JamesLast?s=08"
+  - label: Email
+    url: "mailto:katalitsa@yahoo.com"
+output:
+  postcards::onofre
+---
+ 
+James Last Keyombe Atalitsa  is an experienced Research Scientist with a demonstrated history of research work on water quality and fisheries with interest in small-scale fisheries, fisheries governance, post-harvest fish handling, food security, climate change and resilience

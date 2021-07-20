@@ -1,0 +1,28 @@
+---
+title: "Outa Otieno Nicholas <br>Founder - WritingHub Africa Ltd"
+image: "OutaNick.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/nicholas-outa-01236846"
+  - label: Twitter
+    url: "https://twitter.com/nichouta"
+  - label: Facebook
+    url: "https://www.facebook.com/nicholas.outa.90"
+  - label: Email
+    url: "mailto:nichouta@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a Doctoral student in the field of Fisheries and Aquaculture at Maseno University. I hold a Masters of Science degree (MSc) in Limnology and Wetland Management from UNESCO-IHE, Netherlands, BOKU University, Austria and Egerton University, Kenya. I also hold a BSc. Applied Aquatic Science from Egerton University, Kenya. 
+
+
+## Professionalism
+
+To help support and mentor young researchers, I have founded and registered WritingHub Africa LTD. My firm provides TRAINING on Scientific Writing and Publishing, Data analysis and Grant Proposal Writing. My interests include Aquaculture technologies, Research Communication and Publishing, Community service and Teaching.
+
+## Experience
+
+I have published more than 20 scientific articles in Peer reviewed journals. I am a trainer in Scientific Writing and Communication at the Training Centre in Communication (TCC-Africa) and a mentor for early career researchers.

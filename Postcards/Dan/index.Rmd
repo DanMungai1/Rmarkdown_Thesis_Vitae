@@ -1,0 +1,39 @@
+---
+title: "Dan Mungai <br> Data Expert <br> WritingHub Africa Ltd" 
+image: "PHG_0504.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/danny-mungai-88b798107/"
+  - label: Twitter
+    url: "https://twitter.com/DanNdanuko"
+  - label: GitHub
+    url: "https://github.com/DanMungai1"
+  - label: Email
+    url: "mailto:mungaindegwa@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Dan Mungai is a data analysis, visualization and modeling enthusiast by use of R programming software as well as SPSS. Trained in the field of ecology, environmental science and fisheries, Data analytics is crucial to his field. The training background and enthusiasm in data analytics makes Dan fit to undertake any data analysis in the field of natural sciences.  
+
+## Education
+
+**Egerton Universiy - Njoro, Kenya** |
+
+ Applied Aquatic Sciences, BSC | September 2012 - December 2016
+
+**Kisii University, Kisii Campus** | Kisii, Kenya
+
+MSC in Fisheries Management | September 2017 - May 2019
+
+**Datacamp Online** | Online, Kenya
+
+MSC in Data Science | September 2018 - May 2020
+
+## Experience
+
+**KMFRI - Kisumu** | Ecosystem Modeling of Lake Victoria | 2018 - 2020
+
+**WritingHub Africa Ltd** | Data Analyst | July 2020 - present
