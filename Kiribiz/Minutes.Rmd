@@ -1,0 +1,88 @@
+---
+title: "Minutes of the KiriBiz Meeting Held Virtually on Saturday 10/7/2021 from 8pm to 9pm"
+date: "7/20/2021"
+output: pdf_document
+toc: true
+number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Attendance
+## Members present
+- Joseph Kiritu Mathai
+- Josphine Nungari Kiritu
+- David Mathai Kirit
+- Daniel Mungai Ndegwa
+- Esther Wanjiku Mungai
+- Mercy Njoki Mathai
+- Joshua Kamata Kiritu
+
+## Members absent with apology
+- None
+
+## Members absent without apology
+- None
+
+# Agenda
+
+## Loan application from Jungle foundation through JHELLA Sacco
+
+----------------------------------------------------------------
+
+# Preliminary
+ - The meeting was convened over google-meet and later over whats app group call
+ 
+ - Started the meeting with a word of prayer from David Mathai 
+ 
+# Agreements on the Agenda
+
+- The kiribiz group decided to take a loan of Kenyan shilling 580,000
+
+- The loan was repayable within 36 months but the members decided to repay the loan in 12 months.
+
+- The interest to be accrued by the loan added up to 35,000 Kenya shillings
+
+- The mandatory monthly payments of the loan was set at 17000 Kenyan Shillings
+
+- The monthly contribution from represented household was set at 6000 Kenya shillings which would collectively amount to 30,000 Kenya shillings every month.
+
+- The family car was to be used as collateral in order to secure the loan
+
+# The Action Plan
+
+- The loan was taken with an aim of continuing the kiribiz construction at Makongeni, Thika
+
+- The construction was to commence immediately the loan was secured
+
+- Mr Joseph Kiritu was to oversee the construction and everything happening on site
+
+- Mr Joseph Kiritu was to consult the foreman on costs and matters involving construction - In this case Mr Kamau (Wadenge) 
+
+- Mr Joseph Kiritu was also tasked with the responsibility of finding out the average costs of the business building and rooms around the construction site
+
+- The cost for renting the complete business rooms as well residential parts will be decided depending on the findings of the research
+
+# Adjournment 
+ - The meeting was adjourned after a word of prayer from Ester Mungai
+ 
+## Signatures
+
+                        - Joseph Kiritu
+
+--------------------------
+
+                        - David Mathai
+
+--------------------------
+
+                        - Daniel Mungai
+
+-------------------------
+
+
+
+ 
+
