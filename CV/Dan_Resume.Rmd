@@ -1,0 +1,158 @@
+---
+title: "Dan Mungai's resume"
+author: Daniel Mungai
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+```{r echo=FALSE}
+knitr::include_graphics("PHG_0504.jpg")
+```
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> Dannymungai@outlook.com
+- <i class="fa fa-github"></i> [github.com/DanMungai1](https://github.com/DanMungai1)
+- <i class="fa fa-phone"></i> +254 713-946-813
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, statistical learning models, and optimization methods.
+
+
+- Highly skilled in R, SPSS, Excel, QGis, ArcGis
+
+
+Main
+================================================================================
+
+Dan Mungai {#title}
+--------------------------------------------------------------------------------
+
+#### Currently working with the Kenya Fisheries Service as a fisheries officer
+
+MSC candidate at Kisii University studying Fisheries Management
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Egerton University 
+
+B.S. in Applied Aquatic Sciences
+
+Njoro, Kenya
+
+2016
+
+Thesis: Investigation of the Microbial water quality of Egerton University Main Campus
+
+### Kisii University
+
+M.S. in Fisheries Management
+
+Kisii, Kenya
+
+2021
+
+Thesis: Modelling the Impacts of Fishing on Trophic Interactions in Lake Victoria Using the Ecotroph Model
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Kenya Marine and Fisheries Research Institute
+
+Kisumu, Kenya
+
+2018 - 2019
+
+- Performed computational biology research towards understanding fisheries reasearch and management in Lake Victoria
+- The impacts of fishing on trophic interactions
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+### Kisii University
+
+Teaching Fisheries Management concepts and Fish Nutrition
+
+Kisii, Kenya
+
+2018 - 2019
+
+### Content Supervisor
+
+KNBS
+
+Kiambu, Kenya
+
+2019
+
+::: concise
+- Supervising data enumerators 
+:::
+
+### Data Entry Clerk
+
+Minstry Agriculture-Kiambu County
+
+Thika, kenya
+
+2015 - 2016
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Beijing, China
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Ecotroph: A Simple Model to Asses the Impacts of Fishing on Trophic Interactions in Lake Victoria
+
+Journal of Fisheries and Aquatic Studies
+
+Daniel Mungai et.,all, Kenya
+
+2019
+
